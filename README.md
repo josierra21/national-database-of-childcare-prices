@@ -24,7 +24,15 @@ This project seeks to answer the following questions:
 
 ## Dataset Source
 
-The analysis was conducted using the National Database of Childcare Prices dataset, which contains county-level and state-level childcare cost, household income, labor force participation, and unemployment data from 2008 through 2018.
+The analysis was conducted using the National Database of Childcare Prices dataset provided by the U.S. Department of Labor Women's Bureau.
+
+Dataset:
+https://www.dol.gov/agencies/wb/topics/featured-childcare
+
+Technical Documentation:
+https://www.dol.gov/sites/dolgov/files/WB/NationalDatabaseofChildcarePricesTechnicalGuide-2022.pdf
+
+The dataset contains county-level and state-level measures of childcare costs, household income, unemployment rates, and labor force participation from 2008 through 2018. These variables were used to evaluate childcare affordability trends and develop visualizations for policymakers and the general public.
 
 ---
 
